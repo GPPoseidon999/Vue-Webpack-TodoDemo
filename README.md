@@ -13,3 +13,7 @@
 ### 如何学习
 项目文件里有具体的注释，具体API 属性配合vue官网和webpack官网食用更佳<br>
 如还有不懂，可向度娘提问，度娘会替我好生回答
+
+### 效果展示
+
+![demo.jpg](/images/demo.gif "demo.gif")
