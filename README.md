@@ -16,4 +16,4 @@
 
 ### 效果展示
 
-![demo.jpg](/images/demo.gif "demo.gif")
+![demo.jpg](./src/assets/images/demo.gif "demo.gif")
