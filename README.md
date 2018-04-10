@@ -4,9 +4,9 @@
 入手的基本小Demo包含了基本的webpack和Vue的使用 对于菜鸟来说入门在合适不过了
 
 #### 使用步骤
--1.首先确保有node跟npm环境
--2.npm install
--3.npm run dev 
+-1.首先确保有node跟npm环境 <br>
+-2.npm install<br>
+-3.npm run dev <br>
 -4.下面就是见证奇迹的时刻 浏览器会自动弹出 运行小demo
     浏览器的地址栏 127.0.0.1：8000
     
